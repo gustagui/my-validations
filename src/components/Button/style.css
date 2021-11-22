@@ -1,0 +1,12 @@
+button {
+    background: #e50914;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+  }
+
+  .adicionar {
+    background: blue;
+  }
